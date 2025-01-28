@@ -8,15 +8,20 @@
 
 ## PROFESSIONAL EXPERIENCE 
 
-* Data Analyst with over 5 years of experience in Data Modeling, Data Mining, and Data Warehousing.
-* Proficient in all phases of the Software Development Life Cycle (SDLC) with expertise in requirements analysis, documentation, and testing.
-* Strong experience in Data Warehousing, Data Marts, Data Analysis, and Data Modeling on RDBMS databases.
-* Skilled in AWS Cloud services, including EC2, VPC, ELB, AMI, SNS, RDS, Route53, Auto Scaling, IAM, and S3.
-* Experienced in creating IAM policies, roles, and user management for access control in AWS.
-* Expertise in writing Terraform scripts for resource configuration across multiple environments.
-* Experienced in implementing security tools like SAST, DAST, and infrastructure scanning.
-* Proficient in Base SAS, SAS/Stat, SAS/Access, SAS/Graphs, SAS/Macros, SAS/ODS, and SAS/SQL on Windows.
-* Strong skills in troubleshooting SQL queries and ETL processes for data warehousing solutions.
+* Over 4 years of experience as a Data Analyst, specializing in data collection, analysis, and visualization using tools like Excel, Power BI, SQL, and Python.
+* Led the development and maintenance of dynamic web applications, incorporating SQL queries for data retrieval, and used AWS Cloud services (S3, RDS) for secure and scalable data storage.
+* Utilized Python, Machine Learning, and Natural Language Processing (NLP) techniques to develop a "Spam Text Detection" system, achieving high accuracy in classifying and filtering spam messages.
+* Collaborated with cross-functional teams to develop backend solutions, integrating AWS services like Lambda, RDS, and DynamoDB for scalable data management and performance optimization.
+* Designed and implemented interactive dashboards and reports in Power BI, utilizing DAX and Power Query for real-time business metrics and KPIs, enabling data-driven decision-making.
+* Developed complex Excel models with advanced functions (VLOOKUP, INDEX-MATCH, pivot tables) to streamline data analysis and reporting, significantly improving reporting efficiency.
+* Created and optimized SQL queries for performance, ensuring fast and accurate data retrieval from relational databases, and integrated it seamlessly with web applications.
+* Conducted trend analysis and data validation to ensure data accuracy, identifying key insights that guided strategic decisions and influenced business goals.
+* Delivered detailed visualizations of business data through Power BI, helping stakeholders quickly identify trends and outliers, thus improving business forecasting and performance analysis.
+* Applied data cleaning techniques, ensuring the integrity and quality of datasets, and performed ad-hoc analysis to support business operations and process improvements.
+* Provided training and guidance to team members on best practices for data analysis tools, promoting consistency and efficiency in reporting workflows.
+* Played a key role in integrating reporting workflows, automating data collection and analysis processes to improve the accuracy and timeliness of reports.*
+* Implemented API endpoints and backend frameworks for the seamless integration of data analysis solutions with web applications, streamlining user interaction and enhancing application performance.
+
 
 ## EDUCATION
 
@@ -27,62 +32,76 @@ University of Findlay, Findlay, OH
 Hyderabad, Telangana, India
 
 ## COMPUTER/ TECHNICAL SKILLS 
-
-* Big Data:   	Oozie, HDFS, MongoDB, Map Reduce, Cassandra, Spark, Sqoop, Kafka, HortonWorks
-* DevOps Tools:	Github, Gitlab, Git, Visual studio code, Jenkins, Github Actions, SonarQube, Tflint, tfsec, jira, confluence, agile methodology, gitflow methodology
-* Database:   	Oracle 8i/9i, SQL Server 2003/2008, MySQL 5.0.
-* ETL Tools:  	Informatica, SSIS, DataStage, Ab Initio
-* Operating System:	Windows, Linux.
-* Languages:  	Python, R, SQL, PL/SQL, Unix Shell Scripts
-* Data Modeling:	Erwin, SAS, Power BI
+* Cloud Platforms:	    AWS
+* DevOps Tools:	        Github, Git, Visual studio code, Jenkins, Github Actions, jira, gitflow methodology
+* Database:   	        Oracle 8i/9i, SQL Server 2003/2008, MySQL 5.0.
+* Operating System:	    Windows, Linux.
+* Languages:  	        Python, R, SQL, PL/SQL
+* Data Modeling:	    Tableau, Power BI
 
 ## RELEVANT EXPERIENCE
 
 ## Research Assistant 	March 2022 – May 2023
 
 ## University of Findlay, Findlay, OH
-*	Working on Aspect based sentiment analysis in legal domain. (Writing paper to publish on this).
-*	Predicting the sentiment of opinions of rule passed in legal domains and used ML, NLP, PowerBi, Tableau.
-*	Worked on techniques like back propagation, data augmentation and data masking.
-*	Worked on information retrieval of case law data and managed in writing a legal dataset.
-*	Scripted codes in Python using Numpy, sklearn, Pandas and Pyplot libraries.
-*	Worked on Visualization tools like Tableau and Power Bi for visualizing results.
-*	Experience in working in Machine Learning models.
-*	Created S3 bucket and glacier in AWS cloud to store the backup files, snapshots, and wrote policies to provide access to the data stored in S3 buckets.
-*	Experience in Open Telemetry Python SDK to collect and generate application data for creating metrics and logs.
-*	Maintained CSS and HTML, XSL, XSLT, JAVA SCRIPT, JSF, Angular JS, for designing Webpages.
+* Developed a "Spam Text Detection" application using Python and HTML to analyze and filter spam messages from legitimate texts.
+* Integrated Machine Learning (ML) algorithms and Artificial Intelligence (AI) models to effectively classify text messages as spam or non-spam, enhancing accuracy and detection rates.
+* Implemented Natural Language Processing (NLP) techniques to preprocess text data, including tokenization, stopword removal, and text vectorization, ensuring the model received clean, relevant input data.
+* Trained and tested various ML models such as Logistic Regression, Naive Bayes, and Random Forest to determine the most effective approach for spam detection.
+* Utilized Python libraries like scikit-learn for implementing ML algorithms, pandas for data manipulation, and matplotlib and seaborn for visualizing model performance.
+* Created web-based user interface (UI) using HTML to allow users to easily input text messages for spam detection and view results.
+* Built a backend framework to process the user input, run text classification using the trained ML model, and return the classification results in real-time.
+* Employed confusion matrix to evaluate the performance of the model, including metrics such as accuracy, precision, recall, and F1-score, providing detailed insights into model effectiveness.
+* Analyzed model performance and fine-tuned hyperparameters to optimize detection accuracy and minimize false positives/negatives in classifying spam texts.
+* Developed API endpoints to allow for seamless integration of the spam detection system into other applications or platforms for broader usage.
+* Implemented cross-validation techniques to ensure the model’s generalizability and robustness across different datasets, preventing overfitting.
+* Created detailed documentation for both the application and the detection algorithms, ensuring stakeholders and developers could easily understand the implementation and use the system.
+* Conducted extensive testing on the application to ensure reliable detection across a variety of spam message formats and real-world scenarios.
+* Collaborated with cross-functional teams to gather feedback on system requirements, incorporating user feedback to improve the application’s user interface and performance.
+* Monitored and optimized performance by analyzing the processing time and response rates of the system, ensuring the application ran efficiently on various devices and environments.
 
 ## Data Analyst  	Dec. 2019 – Dec. 2021
 
 ## Pivotal Technology, India 
-*	Created and analyzed business requirements for technical data solutions.
-*	Identified integration impacts, data flows, and data stewardship needs.
-*	Designed new data constraints and reused existing ones.
-*	Developed data dictionaries, ETL mappings, metadata, DDL, DML, and other documentation.
-*	Led JAD sessions as the primary modeler to expand and develop databases.
-*	Enhanced data models to align with business requirements.
-*	Generated and executed SQL scripts for database updates, indexing, and stored procedures.
-*	Consolidated and updated data models through reverse and forward engineering.
-*	Analyzed and resolved discrepancies across multiple database environments.
-*	Developed complex data models using DAX for advanced reporting.
-*	Proficient in data visualization tools like Power BI and QlikView for interactive analysis.
-*	Skilled in data cleaning, preparation, and storytelling to ensure data quality and drive insights.
+* Developed dynamic web pages using HTML, ensuring responsive design and seamless user experience across various devices and screen sizes.
+* Implemented advanced HTML features such as forms, tables, and multimedia components, ensuring the web pages met business and technical requirements.
+* Collaborated with UX/UI designers to ensure the web pages adhered to brand guidelines and best practices for user interaction and accessibility.
+* Utilized CSS and JavaScript to enhance the visual appeal and interactivity of the web pages, providing a modern and user-friendly interface.
+* Wrote SQL queries to extract, update, and manage data from various relational databases, ensuring accurate and efficient data retrieval for the web pages.
+* Created database schemas and established relationships between tables to ensure the integrity and scalability of the data storage solutions.
+* Integrated SQL with the web pages to allow users to interact with the database in real-time, displaying dynamic data without requiring page reloads.
+* Utilized AWS Cloud services to store and manage data, leveraging services like Amazon S3 and RDS for secure and scalable cloud storage.
+* Configured and deployed the AWS environment, ensuring data was properly stored and accessible with low latency for users, while adhering to best practices for security and data privacy.
+* Implemented AWS IAM policies to manage user permissions for accessing and modifying the stored data, ensuring a secure and compliant cloud environment.
+* Optimized SQL queries for performance, ensuring fast data retrieval and efficient operations when accessing the database through the web interface.
+* Worked with AWS Lambda for serverless operations, processing backend tasks and automating workflows for handling data stored in AWS.
+* Ensured data consistency between the SQL database and AWS cloud storage, implementing synchronization protocols to maintain accuracy and integrity.
+* Developed backend solutions using AWS services like API Gateway and DynamoDB, allowing for scalable data management and interaction through the web pages.
+* Created detailed documentation for the web pages and SQL queries, providing a comprehensive overview of the architecture, design, and data management processes.
+* Collaborated with cross-functional teams including backend developers, AWS architects, and data engineers to ensure the web pages and data storage solutions met the requirements and delivered optimal performance.
+* Conducted unit testing on SQL queries and web pages to verify functionality, data retrieval accuracy, and responsiveness across different devices and environments.
+* Monitored and analyzed web page performance using AWS CloudWatch, identifying and resolving bottlenecks or issues related to data retrieval, storage, or page load times.
 
-## Data Engineer  	Dec. 2017 – Oct. 2019
+
+## Data Engineer  	Dec. 2018 – Oct. 2019
 
 ## MERCO GROUP, India 
-*	Participated in requirement gathering sessions with business users to document business needs.
-*	Built data visualizations and cross-functional reports to highlight key metrics and trends.
-*	Profiled source data to assess consistency, data types, and sizes.
-*	Designed SSIS packages for data import/export between SQL Server and other sources.
-*	Performed data analysis using tools like Tableau, Spotfire, and SharePoint for insights.
-*	Created DDL scripts and designed Star and Snowflake Data Models using ERWIN.
-*	Collaborated with DBAs to create physical models and implement data models.
-*	Configured Azure services for web applications and business intelligence solutions.
-*	Worked with ETL teams on data loading and mapping processes.
-*	Provided weekly reports and visualizations on operational data using Tableau and Excel.
-*	Developed Source-to-Target (S2T) mapping documents for data analysis.
-*	Conducted data analysis and profiling using SQL on systems like Oracle and Teradata.
+*	Leveraged Excel and Power BI for comprehensive data collection, cleaning, and analysis to ensure data accuracy and integrity for reporting and decision-making.
+*	Developed complex Excel models using advanced functions like VLOOKUP, INDEX-MATCH, pivot tables, and macros to streamline data analysis and reporting processes.
+*	Designed and maintained interactive dashboards and reports in Power BI, utilizing DAX formulas and Power Query to create dynamic and real-time visualizations of key business metrics.
+*	Performed data validation and data profiling tasks to ensure the quality of collected data, identifying and correcting inconsistencies before visualization.
+*	Created a wide range of charts, graphs, and KPIs in Power BI, such as bar charts, line graphs, scatter plots, and pie charts, to clearly communicate data patterns, trends, and outliers.
+*	Analyzed large datasets, identifying key trends and actionable insights that supported business goals and influenced strategic decisions.
+*	Developed and implemented reporting templates that allowed for easy access to critical data, significantly reducing the time spent generating regular reports.
+*	Performed trend analysis and historical data comparisons to identify performance improvements or areas needing attention, enhancing business forecasting.
+*	Worked closely with stakeholders to define reporting requirements, translating business needs into effective data models and visual solutions.
+*	Created automated reporting workflows using Power BI’s integration capabilities, ensuring timely and accurate data delivery to relevant teams.
+*	Collaborated with cross-functional teams, including business analysts and project managers, to refine reporting structures and data presentation for clarity and impact.
+*	Supported decision-making processes by providing in-depth analyses and clear visualizations of sales, customer behavior, and financial performance data.
+*	Trained team members on best practices for Excel and Power BI to ensure uniformity and efficiency in data analysis and reporting.
+*	Created custom Power BI reports and dashboards for different departments, ensuring that each team had access to the most relevant data and insights for their specific goals.
+*	Conducted ad-hoc analysis on various business units' data, supporting strategic initiatives by providing actionable insights that led to process improvements.
+
 
 
 
